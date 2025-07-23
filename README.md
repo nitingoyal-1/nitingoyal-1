@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin Goyal</h1>
-<h3 align="center">A passionate backend Developer.</h3>
+<h3 align="center">A passionate Data Anyalyst.</h3>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Machine Learning Concepts**
 
-- 💬 Ask me about **java and python**
+- 💬 Ask me about **Excel and Power Bi**
 
 - 📫 How to reach me **nitingoyalji123@gmail.com**
 
