@@ -17,8 +17,8 @@
 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.10.1/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>   
-    <a href="https://raw.githubusercontent.com/devicons/devicon/v2.10.1/icons/pandas/pandas-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.10.1/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svggi" alt="NumPy" width="40" height="40"/> </a>   
+    <a href="https://raw.githubusercontent.com/devicons/devicon/v2.10.1/icons/pandas/pandas-original.svg" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>    
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/71235650/118318353-c5b55000-b530-11eb-9486-590d6480b561.png" alt="Power BI" width="40" height="40"/> </a>    
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-light.svg" alt="Seaborn" width="40" height="40"/> </a>    
