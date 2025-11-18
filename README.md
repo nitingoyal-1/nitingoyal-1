@@ -17,13 +17,7 @@
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1BIzpPC1yVaX3chSspv54G-W7nuWA2LgI/view" alt="NumPy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="" alt="Pandas" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-light.svg" alt="Seaborn" width="40" height="40"/> </a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" alt="Power BI" width="40" height="40"/> </a>
 
 </p>
 
